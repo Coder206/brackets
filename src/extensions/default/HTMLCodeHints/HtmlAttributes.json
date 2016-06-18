@@ -1,7 +1,6 @@
 {
     "accesskey":                { "attribOption": [], "global": "true" },
     "aria-autocomplete":        { "attribOption": ["inline", "list", "both", "none"] },
-
     "aria-activedescendant":    { "attribOption": [], "global": "true" },
     "aria-atomic":              { "attribOption": ["true", "false"], "global": "true", "type": "boolean" },
     "aria-busy":                { "attribOption": [], "global": "true", "type": "boolean" },
